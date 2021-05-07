@@ -1,7 +1,7 @@
 # Cool Github Badges
 Here I Stored Collection Of Cool & Saxy Badges For Github :octocat:
 
-**Some Badges Are Created By Me :atom:
+<b>Some Badges Are Created By Me :atom:</b>
 
 # Contact Badges,
 
