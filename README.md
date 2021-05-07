@@ -1,7 +1,24 @@
 # Cool Github Badges
-Here I Stored Collection Of Cool & Saxy Badges For Github :octocat:
+Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 
 <b>Some Badges Are Created By Me :atom:</b>
+
+<b>Fork and Star ⭐ If you Liked The Repo ♥️</b>
+
+
+# Social Media Badges
+
+| Badge                                                                                                                                       | Code |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------|
+| <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> | `https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> | `https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a> | `https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Instagram-EB3468?style=for-the-badge&logo=instagram&logoColor=white"></a> | `https://img.shields.io/badge/Instagram-EB3468?style=for-the-badge&logo=instagram&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | `https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Reddit-EB3C02?style=for-the-badge&logo=reddit&logoColor=white"></a> | `https://img.shields.io/badge/Reddit-EB3C02?style=for-the-badge&logo=reddit&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/GitHub-030202?style=for-the-badge&logo=github&logoColor=white"></a> | `https://img.shields.io/badge/GitHub-030202?style=for-the-badge&logo=github&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> | `https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white` |
+
 
 # Contact Badges,
 
@@ -12,6 +29,21 @@ Here I Stored Collection Of Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/Skype-2CC8E0?style=for-the-badge&logo=skype&logoColor=white"></a> | `https://img.shields.io/badge/Skype-2CC8E0?style=for-the-badge&logo=skype&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Signal-2CAAE0?style=for-the-badge&logo=signal&logoColor=white"></a> | `https://img.shields.io/badge/Signal-2CAAE0?style=for-the-badge&logo=signal&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a> | `https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/WeChat-34EB6B?style=for-the-badge&logo=WeChat&logoColor=white"></a> | `https://img.shields.io/badge/WeChat-34EB6B?style=for-the-badge&logo=WeChat&logoColor=white` |
+
+
+# Blog Badges,
+
+| Badge                                                                                                                                       | Code |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------|
+| <a href="#"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> | `https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a> | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> | `https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&logo=tumblr&logoColor=white"></a> | `https://img.shields.io/badge/Tumblr-34526F?style=for-the-badge&logo=tumblr&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Wix-152d3D?style=for-the-badge&logo=wix&logoColor=white"></a> | `https://img.shields.io/badge/Wix-152d3D?style=for-the-badge&logo=wix&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Squarespace-121212?style=for-the-badge&logo=squarespace&logoColor=white"></a> | `https://img.shields.io/badge/Squarespace-121212?style=for-the-badge&logo=squarespace&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> | `https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white` |
 
 
 # Donation Badges,
