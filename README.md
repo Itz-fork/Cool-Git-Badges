@@ -1,7 +1,7 @@
 # Cool Github Badges
 Here I Stored Collection Of Cool & Saxy Badges For Github :octocat:
 
-**Some Badges Are Created By Me :atom:
+**Some Badges Are Created By Me :atom: **
 
 # Contact Badges,
 
@@ -11,6 +11,7 @@ Here I Stored Collection Of Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Skype-2CC8E0?style=for-the-badge&logo=skype&logoColor=white"></a> | `https://img.shields.io/badge/Skype-2CC8E0?style=for-the-badge&logo=skype&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Signal-2CAAE0?style=for-the-badge&logo=signal&logoColor=white"></a> | `https://img.shields.io/badge/Signal-2CAAE0?style=for-the-badge&logo=signal&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a> | `https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white` |
 
 
 # Donation Badges,
