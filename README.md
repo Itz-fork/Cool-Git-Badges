@@ -40,6 +40,23 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/C-1754E3?style=for-the-badge&logo=c&logoColor=white"></a> | `https://img.shields.io/badge/C-1754E3?style=for-the-badge&logo=c&logoColor=white` |
 
 
+# OS,
+
+| Badge                                                                                                                                       | Code |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------|
+| <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> | `https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a> | `https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Manjaro-34BE5B?style=for-the-badge&logo=manjaro&logoColor=white"></a> | `https://img.shields.io/badge/Manjaro-34BE5B?style=for-the-badge&logo=manjaro&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></a> | `https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Zorin-0078D6?style=for-the-badge&logo=zorin&logoColor=white"></a> | `https://img.shields.io/badge/Zorin-0078D6?style=for-the-badge&logo=zorin&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Deepin-D70A53?style=for-the-badge&logo=deepin&logoColor=white"></a> | `https://img.shields.io/badge/Deepin-D70A53?style=for-the-badge&logo=deepin&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white"></a> | `https://img.shields.io/badge/Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Elementary-F2F7F3?style=for-the-badge&logo=elementary&logoColor=black"></a> | `https://img.shields.io/badge/Elementary-F2F7F3?style=for-the-badge&logo=elementary&logoColor=black` |
+| <a href="#"><img src="https://img.shields.io/badge/Mx_Linux-090A0A?style=for-the-badge&logo=MX-Linux&logoColor=white"></a> | `https://img.shields.io/badge/Mx_Linux-090A0A?style=for-the-badge&logo=MX-Linux&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> | `https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a> | `https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white` |
+
+
 # Contact Badges,
 
 | Badge                                                                                                                                       | Code |
