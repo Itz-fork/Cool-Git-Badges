@@ -57,6 +57,18 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a> | `https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white` |
 
 
+# Hosting Services,
+
+| Badge                                                                                                                                       | Code |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------|
+| <a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a> | `https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> | `https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> | `https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a> | `https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a> | `https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Vercel-F0F5F1?style=for-the-badge&logo=vercel&logoColor=black"></a> | `https://img.shields.io/badge/Vercel-F0F5F1?style=for-the-badge&logo=vercel&logoColor=black` |
+
+
 # Contact Badges,
 
 | Badge                                                                                                                                       | Code |
