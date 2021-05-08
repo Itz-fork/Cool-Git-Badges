@@ -1,7 +1,8 @@
 # Cool Github Badges
-Here I Stored Collection Of Useful , Cool & Saxy Badges For Github <a href="#"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png"></a>
 
-<b>Some Badges Are Created By Me</b> <a href="#"><img src="https://github.githubassets.com/images/icons/emoji/atom.png"></a>
+Here I Stored Collection Of Useful , Cool & Saxy Badges For Github 🔰
+
+<b>Some Badges Are Created By Me</b> ⚛️
 
 <b>Fork and Star ⭐ If you Liked The Repo ♥️</b>
 
