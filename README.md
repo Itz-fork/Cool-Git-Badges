@@ -38,7 +38,7 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a> | `https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a> | `https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/C-1754E3?style=for-the-badge&logo=c&logoColor=white"></a> | `https://img.shields.io/badge/C-1754E3?style=for-the-badge&logo=c&logoColor=white` |
-| Not available | [Click here for the code](https://raw.githubusercontent.com/Itz-fork/Cool-Git-Badges/badges/codes/bash-badge.txt) |
+| **Bash** (Preview Not available) | [Click here for the code](https://raw.githubusercontent.com/Itz-fork/Cool-Git-Badges/badges/codes/bash-badge.txt) |
 
 
 # OS,
