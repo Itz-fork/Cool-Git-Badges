@@ -5,6 +5,16 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 
 <b>Fork and Star ⭐ If you Liked The Repo ♥️</b>
 
+# Table of what?
+- **[Social Media Badges](#social-media-badges)**
+- **[Languages](#languages)**
+- **[Code Editors](#code-editors)**
+- **[OSes](#os)**
+- **[Hosting Services](#hosting-services)**
+- **[Contact Badges](#contact-badges)**
+- **[Blog Badges](#blog-badges)**
+- **[Donation Badges](#donation-badges)**
+
 
 # Social Media Badges
 
