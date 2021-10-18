@@ -49,7 +49,7 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a> | `https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/C-1754E3?style=for-the-badge&logo=c&logoColor=white"></a> | `https://img.shields.io/badge/C-1754E3?style=for-the-badge&logo=c&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> | `https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white` |
-| **Bash** (Preview Not available) | [Click here for the code](https://raw.githubusercontent.com/Itz-fork/Cool-Git-Badges/badges/codes/bash-badge.txt) |
+| <a href="#"><img src="https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white"></a> | `https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white` |
 
 
 # Code Editors,
