@@ -29,6 +29,8 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/GitHub-030202?style=for-the-badge&logo=github&logoColor=white"></a> | `https://img.shields.io/badge/GitHub-030202?style=for-the-badge&logo=github&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> | `https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white` |
 
+<p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
+
 
 # Languages,
 
@@ -51,6 +53,8 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> | `https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white"></a> | `https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white` |
 
+<p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
+
 
 # Code Editors,
 
@@ -60,6 +64,8 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/Atom-ffd152?style=for-the-badge&logo=atom&logoColor=574c4f"></a> | `https://img.shields.io/badge/Atom-ffd152?style=for-the-badge&logo=atom&logoColor=574c4f` |
 | <a href="#"><img src="https://img.shields.io/badge/Sublime-574c4f?style=for-the-badge&logo=sublimetext&logoColor=ed880c"></a> | `https://img.shields.io/badge/Sublime-574c4f?style=for-the-badge&logo=sublimetext&logoColor=ed880c` |
 | <a href="#"><img src="https://img.shields.io/badge/PyCharm-282a36?style=for-the-badge&logo=pycharm&logoColor=50fa7b"></a> | `https://img.shields.io/badge/PyCharm-282a36?style=for-the-badge&logo=pycharm&logoColor=50fa7b` |
+
+<p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
 
 
 # OS,
@@ -79,6 +85,8 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a> | `https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Pop!__OS-68A7AD?style=for-the-badge&logo=Pop!_OS&logoColor=white"></a> | `https://img.shields.io/badge/Pop!__OS-68A7AD?style=for-the-badge&logo=Pop!_OS&logoColor=white` |
 
+<p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
+
 
 # Hosting Services,
 
@@ -90,6 +98,8 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a> | `https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a> | `https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Vercel-F0F5F1?style=for-the-badge&logo=vercel&logoColor=black"></a> | `https://img.shields.io/badge/Vercel-F0F5F1?style=for-the-badge&logo=vercel&logoColor=black` |
+
+<p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
 
 
 # Contact Badges,
@@ -104,6 +114,8 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/WeChat-34EB6B?style=for-the-badge&logo=WeChat&logoColor=white"></a> | `https://img.shields.io/badge/WeChat-34EB6B?style=for-the-badge&logo=WeChat&logoColor=white` |
 
+<p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
+
 
 # Blog Badges,
 
@@ -117,6 +129,8 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/Squarespace-121212?style=for-the-badge&logo=squarespace&logoColor=white"></a> | `https://img.shields.io/badge/Squarespace-121212?style=for-the-badge&logo=squarespace&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> | `https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white` |
 
+<p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
+
 
 # Donation Badges,
 
@@ -126,3 +140,5 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a> | `https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a> | `https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a> | `https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white` |
+
+<p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
