@@ -8,6 +8,7 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 # Table of what?
 - **[Social Media Badges](#social-media-badges)**
 - **[Languages](#languages)**
+- **[Frameworks](#frameworks)**
 - **[Code Editors](#code-editors)**
 - **[OSes](#os)**
 - **[Hosting Services](#hosting-services)**
@@ -52,6 +53,25 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/C-1754E3?style=for-the-badge&logo=c&logoColor=white"></a> | `https://img.shields.io/badge/C-1754E3?style=for-the-badge&logo=c&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> | `https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white"></a> | `https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white` |
+
+<p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
+
+
+# Frameworks,
+
+| Badge                                                                                                                                       | Code |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------|
+| <a href="#"><img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white"></a> | `https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black"></a> | `https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black` |
+| <a href="#"><img src="https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=white"></a> | `https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Svelte-F66B0E?style=for-the-badge&logo=svelte&logoColor=white"></a> | `https://img.shields.io/badge/Svelte-F66B0E?style=for-the-badge&logo=svelte&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Vue-42D392?style=for-the-badge&logo=vue.js&logoColor=white"></a> | `https://img.shields.io/badge/Vue-42D392?style=for-the-badge&logo=vue.js&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Nuxt-001E26?style=for-the-badge&logo=nuxt.js&logoColor=white"></a> | `https://img.shields.io/badge/Nuxt-001E26?style=for-the-badge&logo=nuxt.js&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/React-0AA1DD?style=for-the-badge&logo=react&logoColor=white"></a> | `https://img.shields.io/badge/React-0AA1DD?style=for-the-badge&logo=react&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Next-141E27?style=for-the-badge&logo=next.js&logoColor=white"></a> | `https://img.shields.io/badge/Next-141E27?style=for-the-badge&logo=next.js&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white"></a> | `https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Ember-E04E39?style=for-the-badge&logo=ember.js&logoColor=white"></a> | `https://img.shields.io/badge/Ember-E04E39?style=for-the-badge&logo=ember.js&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Solid-4979B2?style=for-the-badge&logo=solid&logoColor=white"></a> | `https://img.shields.io/badge/Solid-4979B2?style=for-the-badge&logo=solid&logoColor=white` |
 
 <p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
 
