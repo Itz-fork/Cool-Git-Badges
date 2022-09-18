@@ -161,6 +161,7 @@ Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
 | <a href="#"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a> | `https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a> | `https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white` |
 | <a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a> | `https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white` |
-| <a href="#"><img src="https://img.shields.io/badge/OpenCollective-7FADF2?style=for-the-badge&logo=Open-Collective&logoColor=white"></a> | `https://img.shields.io/badge/OpenCollective-7FADF2?style=for-the-badge&logo=Open-Collective&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Open_Collective-7FADF2?style=for-the-badge&logo=Open-Collective&logoColor=white"></a> | `https://img.shields.io/badge/Open_Collective-7FADF2?style=for-the-badge&logo=Open-Collective&logoColor=white` |
+| <a href="#"><img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=Liberapay&logoColor=white"></a> | `https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=Liberapay&logoColor=white` |
 
 <p align="center"><a href="#table-of-what">Back to top 🔝</a></p>
