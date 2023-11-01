@@ -1,5 +1,6 @@
-# Cool Github Badges
-Collection of useful Badges for Github :octocat:
+<h1 align="center">Cool Github Badges</h1>
+
+<p align="center">Collection of useful Badges for Github :octocat:</p>
 
 # Categories 🔖
 - **[Social Media Badges](#social-media-badges)**
