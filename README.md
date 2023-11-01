@@ -1,11 +1,7 @@
 # Cool Github Badges
-Here I Stored Collection Of Useful , Cool & Saxy Badges For Github :octocat:
+Collection of useful Badges for Github :octocat:
 
-<b>Some Badges Are Created By Me :atom:</b>
-
-<b>Fork and Star ⭐ If you Liked The Repo ♥️</b>
-
-# Table of what?
+# Categories 🔖
 - **[Social Media Badges](#social-media-badges)**
 - **[Languages](#languages)**
 - **[Frameworks](#frameworks)**
